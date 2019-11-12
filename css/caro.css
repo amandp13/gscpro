@@ -1,0 +1,12 @@
+.nonloop-block-3 owl-carousel{
+    margin: 3px;
+  }
+  #owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .marquee img{
+    width:250px;
+    height:200px;
+  }
